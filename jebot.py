@@ -29,7 +29,7 @@ async def start(client, message):
                chat_id=message.chat.id,
                text="""<b>Hey There, I'm AnyDL Bot
 
-I can download video or audio from Youtube. Made by @ImJanindu 🇱🇰
+I can download video or audio from Youtube. Made by @kavee132
 
 Hit help button to find out more about how to use me</b>""",   
                             reply_markup=InlineKeyboardMarkup(
@@ -83,7 +83,7 @@ async def about(client, message):
 
 <b>♞ Library:</b> <a href="https://github.com/pyrogram/pyrogram">Pyrogram</a>
 
-<b>~ @Infinity_BOTs</b>""",
+<b>~ @kaveebots</b>""",
      reply_markup=InlineKeyboardMarkup(
                                 [[
                                         InlineKeyboardButton(
@@ -276,7 +276,7 @@ async def button(bot, update):
 print(
     """
 Bot Started!
-Join @Infinity_BOTs
+welcome to kaveebots
 """
 )
 
